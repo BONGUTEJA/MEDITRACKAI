@@ -1,0 +1,21 @@
+# Python virtual environment
+backend/venv/
+venv/
+
+# Environment variables / secrets
+backend/.env
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Node modules
+node_modules/
+
+# Expo
+.expo/
+
+# OS files
+.DS_Store
+Thumbs.db
